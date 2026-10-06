@@ -54,6 +54,6 @@ Arsit 致力于成为一个"微微微智能"的情感陪伴系统——从识别
 
 ## 作者
 
-曲相羽
+曲相羽（Q）
 齐鲁工业大学 人工智能专业 2026级
 GitHub: [@Arsit-qxy](https://github.com/Arsit-qxy)
