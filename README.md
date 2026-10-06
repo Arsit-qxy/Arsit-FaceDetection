@@ -1,3 +1,4 @@
+![demo](screenshot.jpg)
 # Arsit-FaceDetection
 
 > 基于 OpenCV 的实时人脸检测系统 — Arsit 情感陪伴项目 V0.1
